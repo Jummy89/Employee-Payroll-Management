@@ -1,0 +1,18 @@
+	Company Name, XYZ
+	Address: Xyz, Floor4
+-------------------------------------------
+Employeee ID		: DD
+Salary Of		: DD
+Generated On		: DD-MM-YYYY
+-------------------------------------------
+Total Days		: DD
+Total Present		: DD
+Total Absent		: DD
+Convence		: #----
+Medical		: #----
+PF		: #----
+Gross Payment		: #----
+Net Salary		: #----
+------------------------------------------
+This is a computer generated slip, not required any signature
+

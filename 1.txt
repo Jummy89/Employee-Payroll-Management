@@ -1,0 +1,21 @@
+	Company Name, XYZ
+	Address: Xyz, Floor4
+-------------------------------------------
+Employeee ID		:  1
+Salary Of		: FEB-2021
+Generated On		: 04/30/23-16-2023
+-------------------------------------------
+Total Days		:31
+Total Present		: 31
+Total Absent		: 0
+Convence		:# 0
+Medical		:# 0
+PF		:# 0
+Gross Payment		:# 60000
+Net Salary		: #60000.0
+------------------------------------------
+This is a computer generated slip, not required any signature
+
+
+
+
